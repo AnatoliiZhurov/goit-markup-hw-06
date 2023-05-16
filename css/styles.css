@@ -846,3 +846,8 @@ body {
 .form-check-input:checked + .form-custom-check > .checked {
   opacity: 1;
 }
+
+.form-agreement-link {
+  color: var(--color-iris);
+  line-height: 1.33;
+}
